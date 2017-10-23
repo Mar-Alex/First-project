@@ -1,1 +1,1 @@
-# First-project
+This project was created as my first experience in working with GitHub
